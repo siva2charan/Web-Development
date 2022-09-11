@@ -1,0 +1,60 @@
+h1 {
+    margin-left: 70px;
+    color: white;
+    text-align: center;
+    }
+    form li {
+    list-style: none;
+    margin-bottom: 5px;
+    color: white;
+    text-align: center;
+    }
+    
+    form ul li label{
+    float: center;
+    clear: center;
+    width: 100px;
+    text-align: center;
+    margin-right: 10px;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-size:14px;
+    text-align: center;
+    }
+    
+    form ul li input, select, span {
+    float: center;
+    margin-bottom: 10px;
+   
+    }
+    
+    
+    
+    [type="submit"] {
+    clear: center;
+    float: center;
+
+    font-size:18px
+    
+    
+    
+    }
+  
+    
+    p {
+
+    font-weight: bold;
+    text-align: center;
+    color: rgb(33, 15, 15);
+    margin-left: 60px;
+    
+    }
+body{
+background: rgb(79, 194, 219);
+text-align: center;
+
+    }
+    button{
+        background-color:white;
+    }
+  
+    
